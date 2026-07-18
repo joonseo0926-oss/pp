@@ -1,1 +1,5 @@
-streamlit\nnumpy\npandas\nmatplotlib\nscipy\n
+streamlit
+numpy
+pandas
+scipy
+plotly
